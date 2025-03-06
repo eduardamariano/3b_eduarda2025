@@ -80,7 +80,18 @@ section {
     margin-bottom: 3rem;
     background: url('img/956adfcf15dd80b7a395f6367a3b5a4f-removebg-preview.png') top right no-repeat,
         url('img/blabla.jpg') bottom left no-repeat;
-    background-size: 300px 320px;
+    background-size: 320px 320px;
+    /* Ajuste o tamanho conforme necessário */
+}
+
+#tropicalia {
+    position: relative;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background: url('img/956adfcf15dd80b7a395f6367a3b5a4f-removebg-preview.png') top right no-repeat,
+        url('img/blabla.jpg') bottom left no-repeat;
+    background-size: 320px 320px;
     /* Ajuste o tamanho conforme necessário */
 }
 
