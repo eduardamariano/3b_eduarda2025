@@ -13,7 +13,7 @@ body {
 header {
     background-color: #ffffffa6;
 }
-
+class="img-fluid rounded-5"  class="img-fluid rounded-5" 
 
 section {
     padding-bottom: 5rem;
@@ -25,7 +25,7 @@ section {
     font-weight: 600;
 }
 
-.inicio-fundo {
+.inicio-fundo { class="img-fluid rounded-5" 
     /* aula 3 */
     background-image: url('img/fundo.jpg');
     /* Substitua pelo caminho da sua imagem */
