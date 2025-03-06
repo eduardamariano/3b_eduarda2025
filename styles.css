@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #f75b75;
+    --laranja-claro: #f82447;
 }
 
 body {
@@ -118,12 +118,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/gettyimages-1149577390-612x612.jpg') bottom right no-repeat;
     background-size: 380px 380px;
 }
 
 #contato {
-    background-image: url('img/unnamed.jpg');
+    background-image: url('img/kkkk.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
